@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar-bg {
+    background-color: lavender;
+    border-radius: 10px;
+    margin: 2px 15px 15px 15px;    
+    padding: 4px;
+}
+
+.header-links-text {
+    color: darkorchid;
+    text-transform: uppercase;
+}
+
+.navbar-menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4;
+    float: right;
+}
+
+.nav-item {
+    float: right;
+}
+
+.footer {
+    background-color: lavender;
+    border-radius: 10px;
+    margin: 2px 15px 15px 15px;    
+    padding: 4px;
+}
